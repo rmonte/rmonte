@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PHP and Python development
-- 🌱 I’m currently learning datascience
-- 👯 I’m looking to collaborate on python projects
+- 🔭 I’m currently working on PHP, Python development
+- 🌱 I’m currently learning datascience and Java 
+- 👯 I’m looking to collaborate on Python and Java projects
 - ⚡ Fun fact: I love scarlet eggplants
 
 <div align="left">
