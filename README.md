@@ -3,14 +3,14 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP, Python development
-- 🌱 I’m currently learning datascience and Java 
+- 🌱 I’m currently learning datascience, Java and Swift
 - 👯 I’m looking to collaborate on Python and Java projects
 - ⚡ Fun fact: I love scarlet eggplants
 
 <div align="left">
   <a href="https://github.com/rmonte">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmonte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmonte&layout=compact&langs_count=10&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmonte&layout=compact&langs_count=10&theme=dark"/>
   </a>
 </div>
   
